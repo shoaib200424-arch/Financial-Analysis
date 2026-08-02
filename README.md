@@ -97,11 +97,11 @@ Business Insights
 
 ### Sales Analysis
 
-*(Add Screenshot)*
+![image alt ] (https://github.com/shoaib200424-arch/Financial-Analysis/blob/c1fccb8fef11bc6a08202e7a55d40b60528dae20/dashboard%20image/Sale%20analysis.png)
 
 ### Profitability Dashboard
 
-*(Add Screenshot)*
+![image alt](
 
 ---
 
