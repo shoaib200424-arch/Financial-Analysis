@@ -93,7 +93,7 @@ Business Insights
 
 ### Executive Dashboard
 
-*(Add Screenshot)*
+![image alt](https://github.com/shoaib200424-arch/Financial-Analysis/blob/001a9214017dbcb49c73d274a27acf80a0802c28/dashboard%20image/Profitability.png)
 
 ### Sales Analysis
 
